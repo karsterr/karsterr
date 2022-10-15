@@ -14,5 +14,21 @@
 
 - Last but not least, I'm going to be part of some competitions and make some projects (like TUBITAK,TeknoFest etc.) 
 
+## Index
+
+### Dotfiles
+- [BSPWM](https://github.com/karsterr/.bspwm)
+- DWM(Not Ready)
+
+### Forks
+- [pastoralFirefox](https://github.com/karsterr/pastoralFirefox) form [molecule47](https://github.com/molecule47)
+- [Programlama ve Algoritmaya Giris](https://github.com/karsterr/programlama_algoritma_giris) from [mepol58](https://github.com/mepol58)
+- [Deploy Gentoo](https://github.com/karsterr/deploygentoo) from [Mental Outlaw](https://github.com/MentalOutlaw)
+
+### Learning
+- [HTML/CSS/JavaScript](https://github.com/karsterr/pastoralFirefox)
+- [C/C++](https://github.com/karsterr/c_cppLearning)
+- [Python](https://github.com/karsterr/pythonLearning)
+
 ## Contact Me
 - **E-mails :** [Proton](mailto:efecan_kara@proton.me), [University Mail](mailto:2022481031cumhuriyet.edu.tr)
