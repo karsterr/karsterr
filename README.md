@@ -30,5 +30,8 @@
 - [C/C++](https://github.com/karsterr/c_cppLearning)
 - [Python](https://github.com/karsterr/pythonLearning)
 
+### My Own Doings
+**coming soon :)**
+
 ## Contact Me
 - **E-mails :** [Proton](mailto:efecan_kara@proton.me), [University Mail](mailto:2022481031cumhuriyet.edu.tr)
