@@ -26,7 +26,7 @@
 - [Deploy Gentoo](https://github.com/karsterr/deploygentoo) from [Mental Outlaw](https://github.com/MentalOutlaw)
 
 ### Learning
-- [HTML/CSS/JavaScript](https://github.com/karsterr/pastoralFirefox)
+- [HTML/CSS/JavaScript](https://github.com/karsterr/html_css_javascript_learning)
 - [C/C++](https://github.com/karsterr/c_cppLearning)
 - [Python](https://github.com/karsterr/pythonLearning)
 
