@@ -2,9 +2,6 @@
 
 ## About Myself
   Hi, I am Efe Can Kara (19). I'm studying IT Systems and Technologies at Sivas Cumhuriyet University. I'm fan of free and open source software and mostly using them. I'm currently using Fedora 36. Also I used other mainstream distros and BSD based operating systems and niche operating systems line HaikuOS and ReactOS.
-  
-## About My Interests
-- **GNU/Linux :penguin: :** My Linux journey starts two years ago. I used lots of distros like Debian, Arch, Gentoo, Fedora, Void, NixOS etc.
 
 ## Purpose of My Repos
 - I'm currently studying IT Systems and Technologies and I'm gonna write tons of codes. I want to store my codes and learn something from people that better than me.
@@ -14,6 +11,9 @@
 - Last but not least, I'm going to be part of some competitions and make some projects (like TUBITAK,TeknoFest etc.) 
 
 ## Index
+
+### University and Projects
+- [Practical Programming Examples](https://github.com/karsterr/PracticalProgrammingExamples)
 
 ### Dotfiles
 - [BSPWM](https://github.com/karsterr/.bspwm)
@@ -29,7 +29,7 @@
 - [Python](https://github.com/karsterr/pythonLearning)
 
 ### My Own Doings
-- [Practical Programming Examples](https://github.com/karsterr/PracticalProgrammingExamples)
+**coming soon**
 
 ## Contact Me
 - **E-mails :** [Proton](mailto:efecan_kara@proton.me), [University Mail](mailto:2022481031cumhuriyet.edu.tr)
