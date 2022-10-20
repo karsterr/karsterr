@@ -14,6 +14,7 @@
 
 ### University and Projects
 - [Practical Programming Examples](https://github.com/karsterr/PracticalProgrammingExamples)
+- [Computer Science An Overview Examples](https://github.com/karsterr/ComputerScienceAnOverviewExamples)
 
 ### Dotfiles
 - [BSPWM](https://github.com/karsterr/.bspwm)
