@@ -22,7 +22,6 @@
 
 ### Forks
 - [pastoralFirefox](https://github.com/karsterr/pastoralFirefox) form [molecule47](https://github.com/molecule47)
-- [Programlama ve Algoritmaya Giris](https://github.com/karsterr/programlama_algoritma_giris) from [mepol58](https://github.com/mepol58)
 - [Deploy Gentoo](https://github.com/karsterr/deploygentoo) from [Mental Outlaw](https://github.com/MentalOutlaw)
 
 ### Learning
