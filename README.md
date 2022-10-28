@@ -16,21 +16,23 @@
 - [Practical Programming Examples](https://github.com/karsterr/PracticalProgrammingExamples)
 - [Computer Science An Overview Examples](https://github.com/karsterr/ComputerScienceAnOverviewExamples)
 
-### Dotfiles
-- [BSPWM](https://github.com/karsterr/.bspwm)
-- DWM(Not Ready)
-
-### Forks
-- [pastoralFirefox](https://github.com/karsterr/pastoralFirefox) form [molecule47](https://github.com/molecule47)
-- [Deploy Gentoo](https://github.com/karsterr/deploygentoo) from [Mental Outlaw](https://github.com/MentalOutlaw)
 
 ### Learning
-- [HTML/CSS/JavaScript](https://github.com/karsterr/html_css_javascript_learning)
+- [HTML/CSS/JavaScript](https://github.com/karsterr/webDevLearning)
 - [C/C++](https://github.com/karsterr/herYonuyleCOrnekleri)
 - [Python](https://github.com/karsterr/pythonLearning)
 
 ### My Own Doings
 - [Flowcharts](https://github.com/karsterr/Flowcharts)
 
+### Dotfiles
+- [BSPWM](https://github.com/karsterr/.bspwm)
+- DWM(not available)
+
+### Forks
+- [pastoralFirefox](https://github.com/karsterr/pastoralFirefox) form [molecule47](https://github.com/molecule47)
+- [Deploy Gentoo](https://github.com/karsterr/deploygentoo) from [Mental Outlaw](https://github.com/MentalOutlaw)
+
 ## Contact Me
 - **E-mails :** [Proton](mailto:efecan_kara@proton.me), [University Mail](mailto:2022481031cumhuriyet.edu.tr)
+- **Discord :** karsterr#0267
