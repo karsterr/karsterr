@@ -26,7 +26,7 @@
 
 ### Learning
 - [HTML/CSS/JavaScript](https://github.com/karsterr/html_css_javascript_learning)
-- [C/C++](https://github.com/karsterr/c_cppLearning)
+- [C/C++](https://github.com/karsterr/herYonuyleCOrnekleri)
 - [Python](https://github.com/karsterr/pythonLearning)
 
 ### My Own Doings
