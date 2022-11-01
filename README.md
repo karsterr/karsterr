@@ -10,16 +10,9 @@
 
 - Last but not least, I'm going to be part of some competitions and make some projects (like TUBITAK,TeknoFest etc.) 
 
-## Index
-
-### University and Projects
-- [Practical Programming Examples](https://github.com/karsterr/PracticalProgrammingExamples)
-- [Computer Science An Overview Examples](https://github.com/karsterr/ComputerScienceAnOverviewExamples)
-
-
 ### Learning
 - [HTML/CSS/JavaScript](https://github.com/karsterr/webDevLearning)
-- [C/C++](https://github.com/karsterr/herYonuyleCOrnekleri)
+- [C/C++](https://github.com/karsterr/cExamples)
 - [Python](https://github.com/karsterr/pythonLearning)
 
 ### My Own Doings
@@ -27,7 +20,6 @@
 
 ### Dotfiles
 - [BSPWM](https://github.com/karsterr/.bspwm)
-- DWM(not available)
 
 ### Forks
 - [pastoralFirefox](https://github.com/karsterr/pastoralFirefox) form [molecule47](https://github.com/molecule47)
@@ -36,3 +28,4 @@
 ## Contact Me
 - **E-mails :** [Proton](mailto:efecan_kara@proton.me), [University Mail](mailto:2022481031cumhuriyet.edu.tr)
 - **Discord :** karsterr#0267
+- **LinkedIn :** [Efe Can Kara](https://www.linkedin.com/in/efe-can-kara-4a2234255/)
