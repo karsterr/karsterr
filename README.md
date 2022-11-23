@@ -10,7 +10,7 @@
 
 - Last but not least, I'm going to be part of some competitions and make some projects (like TUBITAK,TeknoFest etc.) 
 
-### Learning
+### My Examples
 - [HTML/CSS/JavaScript](https://github.com/karsterr/webDevLearning)
 - [C/C++](https://github.com/karsterr/cExamples)
 - [Python](https://github.com/karsterr/pythonLearning)
@@ -18,6 +18,7 @@
 ### My Own Doings
 - [Flowcharts](https://github.com/karsterr/Flowcharts)
 - [karsterrStartpage](https://github.com/karsterr/karsterrStartpage)
+- [About Me Page](https://github.com/karsterr/karsterr.startpage.github.io)
 
 ### Dotfiles
 - [BSPWM](https://github.com/karsterr/.bspwm)
