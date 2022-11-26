@@ -17,15 +17,14 @@
 
 ### My Own Doings
 - [Flowcharts](https://github.com/karsterr/Flowcharts)
-- [karsterrStartpage](https://github.com/karsterr/karsterrStartpage)
-- [About Me Page](https://github.com/karsterr/karsterr.startpage.github.io)
+- [Karsterr's Startpage](https://github.com/karsterr/Karsterr-s-Startpage)
+- [About Me Page](https://github.com/karsterr/Karsterr-s-About-Me)
 
 ### Dotfiles
 - [BSPWM](https://github.com/karsterr/.bspwm)
 
 ### Forks
 - [pastoralFirefox](https://github.com/karsterr/pastoralFirefox) form [molecule47](https://github.com/molecule47)
-- [Deploy Gentoo](https://github.com/karsterr/deploygentoo) from [Mental Outlaw](https://github.com/MentalOutlaw)
 
 ## Contact Me
 - **E-mails :** [Proton](mailto:efecan_kara@proton.me), [University Mail](mailto:2022481031cumhuriyet.edu.tr)
