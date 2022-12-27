@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my profile.</h1>
 <h3 align="center">A front-end developer cadet</h3>
 
-Hi, I'm Efe Can Kara(19).I'm studying IT Systems and Technologies at Sivas Cumhuriyet University. I’m currently working on my TUBİTAK PROJECT. Nowadays I'm learning **JavaScript and ReactJS**. I'm also working on [my tech blog](https://github.com/karsterr/karsterrtechblog).
+Hi, I'm Efe Can Kara(19).I'm studying IT Systems and Technologies at Sivas Cumhuriyet University. I’m currently working on my TUBITAK project. Nowadays I'm learning **JavaScript and ReactJS**. I'm also working on [my tech blog](https://github.com/karsterr/karsterrtechblog).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
