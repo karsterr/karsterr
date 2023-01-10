@@ -5,19 +5,19 @@
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=karsterr&theme=dark" alt="karsterr" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=karsterr&show_icons=true&theme=onedark&locale=en" alt="karsterr" /></p>
 
-- 🔭 I’m currently working on [Python Cheatsheet](https://github.com/karsterr/Python-Cheatsheet)
+- 🔭 I’m currently working on [Python Cheatsheet](https://github.com/karsterr/Python-Cheatsheet).
 
-- 🌱 I’m currently learning **Bash**
+- 🎸 I’m currently learning **JavaScript.**
 
-- 🔭 Here's other cheatsheet that I working on [C Cheatsheet](https://github.com/karsterr/C-CheatSheet)
+-  💻 Here's other cheatsheet that I working on [C Cheatsheet](https://github.com/karsterr/C-CheatSheet).
 
-- Also there is my startpage for browsers [Custom Start Page](https://github.com/karsterr/Custom-Start-Page)
+- :sparkles: Also there is my startpage for browsers [Custom Start Page](https://github.com/karsterr/Custom-Start-Page).
 
-- 💬 Ask me about **HTML, CSS, JavaScript and Linux**
+- 💬 Ask me about **HTML, CSS, JavaScript and Linux**.
 
-- 📫 How to reach me **efecan_kara@proton.me**
+- 📫 How to reach me **efecan_kara@proton.me**.
 
-- ⚡ Fun fact **Also I'm a bass guitar player and love playing PC games.**
+- :video_game: Fun fact **Also I'm a bass guitar player and love playing PC games.**.
 <br><br><br><br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karsterr&theme=darkhub" alt="karsterr" /></a> </p>
 
