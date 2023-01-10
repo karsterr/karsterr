@@ -1,6 +1,6 @@
 <h1 align="center">Greetings,I'm Efe Can Kara</h1>
 <h3 align="center">Front-end Developer Cadet</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=karsterr&label=Profile%20views&color=0e75b6&style=flat" alt="karsterr" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=karsterr&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="karsterr" /> </p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=karsterr&theme=dark" alt="karsterr" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=karsterr&show_icons=true&theme=onedark&locale=en" alt="karsterr" /></p>
