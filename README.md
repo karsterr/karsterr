@@ -5,7 +5,7 @@
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=karsterr&theme=dark" alt="karsterr" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=karsterr&show_icons=true&theme=onedark&locale=en" alt="karsterr" /></p>
 
-- 🔭 I’m currently working on [Python Cheatsheet](https://github.com/karsterr/Python-Cheatsheet).
+- 🔭 I’m currently working on [My Portfolio site](https://github.com/karsterr/karsterr.github.io).
 
 - 🎸 I’m currently learning **JavaScript.**
 
