@@ -1,4 +1,15 @@
 ## Greetings, I'm Efe Can Kara!  
+
+  
+
+<br/>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=karsterr&&style=flat-square)  
+  
+
+<br/>  
+
+
   
 
 <a href="https://github.com/karsterr" target="_blank">
@@ -70,17 +81,7 @@ I’m a full-stack developer who has various tech skills. I got plenty of comman
 
 <br/>  
 
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=karsterr&&style=flat-square)  
-  
-
-<br/>  
-
-
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+Generated using [GitHub Profilinator](https://profilinator.rishav.dev/)
