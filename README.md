@@ -38,7 +38,7 @@
 
 
 ### Glad to see you here!  
-I’m a full-stack developer who has various tech skills. I got plenty of command line experience for a long time. Also I'm a intermediate Linux and FreeBSD user. I experienced some programming and markup languages like Python, C, HTML, CSS, JavaScript etc. I'm currently learning ReactJS. Nowadays I'm working on Bilgisayar Birimi repo.
+I’m a full-stack developer who has various tech skills. I got plenty of command line experience for a long time. Also I'm a intermediate Linux and FreeBSD user. I experienced some programming and markup languages like Python, C, HTML, CSS, JavaScript etc. I'm currently learning ReactJS. Nowadays I'm working on Bilgisayar Bilimi repo.
   
 
 <br/>  
