@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Efe Can Kara A.K.A. KARSTERR. I'm a student at Sivas Cumhuriyet University. I'm a newbie game developer which uses Unreal Engine, Unity and more. <br>I like playing and developing games. Also I experienced Python, C and frontend web developlment. Also I interested in playing bass guitar, reading books and stuff<br>
+I'm Efe Can Kara A.K.A. KARSTERR. I'm a student at Sivas Cumhuriyet University. I'm a newbie game developer which uses Unreal Engine, Unity and more. I like playing and developing games. Also I experienced Python, C and frontend web developlment. Also I interested in playing bass guitar, reading books and stuff<br>
 
 
 ## 🌐 Socials:
