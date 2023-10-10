@@ -1,27 +1,54 @@
-# 💫 About Me:
-I'm Efe Can Kara A.K.A. KARSTERR. I'm a student at Sivas Cumhuriyet University. I'm a newbie game developer which uses Unreal Engine, Unity and more. I like playing and developing games. Also I experienced Python, C and frontend web developlment. Also I interested in playing bass guitar, reading books and stuff<br>
+<h1 align="center">Greeting I'm Efe Can Kara</h1>
+<h3 align="center">Junior C# developer. Intermediate Linux user</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karsterr&label=Profile%20views&color=0e75b6&style=flat" alt="karsterr" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karsterr&theme=tokyonight" alt="karsterr" /></a> </p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/karsterr_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/efe-can-kara-4a2234255) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/karsterr) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19764557) 
+- I’m currently working on [Programming Language Practices](https://github.com/users/karsterr/projects/20)
+- Also I'm studying my lessons with [CSIT Noter](https://github.com/users/karsterr/projects/22)
+- I’m currently learning **C# and .NET**
+- You can ask me about **Linux Administration, Bash, Python, C# and .NET**
+- Mail **efecan_kara@tuta.io**
+- My Website **https://karsterr.github.io**
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=flat-square&logo=unity&logoColor=white) ![UNREAL](https://img.shields.io/badge/unreal-%2320232a.svg?style=flat-square&logo=unreal-engine&logoColor=white) ![GODOT](https://img.shields.io/badge/godot-3582bb.svg?style=flat-square&logo=godot-engine&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=flat-square&logo=gimp&logoColor=FFFFFF) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat-square&logo=inkscape&logoColor=080A13) ![Krita](https://img.shields.io/badge/Krita-203759?style=flat-square&logo=krita&logoColor=EEF37B) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=karsterr&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=karsterr&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=karsterr&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div> <a href="https://www.linkedin.com/in/efe-can-kara-4a2234255" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://github.com/karsterr" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/karsterr_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:efecan_kara@tuta.io"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div><h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/efe-can-kara-4a2234255" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="efe-can-kara-4a2234255" height="30" width="40" /></a><a href="https://www.hackerrank.com/efecan_kara" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="efecan_kara" height="30" width="40" /></a><a href="https://www.leetcode.com/karsterr" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="karsterr" height="30" width="40" /></a><a href="https://discord.gg/https://discord.gg/nGMRbeDA" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="https://discord.gg/nGMRbeDA" height="30" width="40" /></a><a href="https://stackoverflow.com/users/19764557" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/stack-overflow.svg" alt="19764557" height="30" width="40" /></a><a href="https://instagram.com/karsterr_" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="karsterr_" height="30" width="40" /></a><a href="https://dev.to/karsterr" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/devto.svg" alt="karsterr" height="30" width="40" /></a></p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=karsterr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/csharp-original.svg" alt="Csharp" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/php-original.svg" alt="PHP" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/gnu_bash-icon.svg" alt="Gnu Bash" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/dot-net-original-wordmark.svg" alt="Dot Net" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karsterr&langs_count=8&theme=transparent" alt=karsterr />
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=karsterr&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=karsterr&show_icons=true&locale=en&theme=transparent" alt="karsterr" /></p>
 
----
-[![](https://visitcount.itsvg.in/api?id=karsterr&icon=0&color=0)](https://visitcount.itsvg.in)
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=karsterr&theme=transparent" alt="karsterr" /></p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/karsterr">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=karsterr&theme=transparent" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karsterr&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karsterr&theme=transparent" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=karsterr&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karsterr&theme=transparent" height="180em" />
+</div>
