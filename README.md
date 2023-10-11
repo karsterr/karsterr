@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karsterr&theme=tokyonight" alt="karsterr" /></a> </p>
 
 - I’m currently working on [Programming Language Practices](https://github.com/users/karsterr/projects/20)
-- Also I'm studying my lessons with [CSIT Noter](https://github.com/users/karsterr/projects/22)
+- Also I'm studying my lessons with [CSIT Lessons](https://github.com/users/karsterr/projects/22)
 - I’m currently learning **C# and .NET**
 - You can ask me about **Linux Administration, Bash, Python, C# and .NET**
 - Mail **efecan_kara@tuta.io**
