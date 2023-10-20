@@ -1,13 +1,13 @@
 <h1 align="center">Greeting I'm Efe Can Kara</h1>
-<h3 align="center">Junior C# developer. Intermediate Linux user</h3>
+<h3 align="center">Junior Game developer. Intermediate Linux User</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karsterr&label=Profile%20views&color=0e75b6&style=flat" alt="karsterr" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karsterr&theme=tokyonight" alt="karsterr" /></a> </p>
 
 - I’m currently working on [Programming Language Practices](https://github.com/users/karsterr/projects/20)
 - Also I'm studying my lessons with [CSIT](https://github.com/users/karsterr/projects/22)
-- I’m currently learning **C# and .NET**
-- You can ask me about **Linux Administration, Bash, Python, C# and .NET**
+- I’m currently learning **.NET and Godot Engine at the same time.**
+- You can ask me about **Linux Administration, Bash, Python, .NET and Game Development**
 - Mail **efecan_kara@tuta.io**
 - My Website **https://karsterr.github.io**
 
