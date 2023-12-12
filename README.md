@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karsterr&theme=tokyonight" alt="karsterr" /></a> </p>
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
-<div class="badge-base LI-profile-badge" data-locale="tr_TR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="efe-can-kara-4a2234255" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/efe-can-kara-4a2234255?trk=profile-badge">Efe Can Kara</a></div>
-
 - I’m currently working on [Programming Language Practices](https://github.com/users/karsterr/projects/20)
 - Also I'm studying my lessons with [CSIT](https://github.com/users/karsterr/projects/22)
 - I’m currently learning **.NET and Godot Engine at the same time.**
