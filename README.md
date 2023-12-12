@@ -1,5 +1,5 @@
 <h1 align="center">Greeting I'm Efe Can Kara</h1>
-<h3 align="center">Jr. Game developer. Intermediate Linux User</h3>
+<h3 align="center">Jr. Linux System Administrator</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karsterr&label=Profile%20views&color=0e75b6&style=flat" alt="karsterr" /> </p>
 <a href="https://wakatime.com/@018b4f5f-4a37-42ee-abe1-ad62b807d047"><img src="https://wakatime.com/badge/user/018b4f5f-4a37-42ee-abe1-ad62b807d047.svg" alt="Total time coded since Oct 21 2023">
 
