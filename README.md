@@ -1,42 +1,36 @@
-## Greetings, I'm [Efe Can Kara](https://karsterr.github.io) :computer:
+# Greeting, I'm Efe Can Kara 💻
 
-<h1>Jr. Linux System Administrator</h1>
+<sup align="right"> <img src="https://i.imgur.com/4YoQPQ5.gif" alt="matrix" height="256" width="256" /> </sup>
 
-[![Linkedin Badge](https://img.shields.io/badge/-karsterr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karsterr)](https://www.linkedin.com/in/karsterr) [![Gmail Badge](https://img.shields.io/badge/-efecan_kara@tuta.io-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:efecan_kara@tuta.io)](mailto:efecan_kara@tuta.io)
-<p align="right" style="display: inline-block;"> <img src="https://i.imgur.com/4YoQPQ5.gif" alt="matrix" /> </p>
+[![Linkedin Badge](https://img.shields.io/badge/-karsterr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karsterr)](https://www.linkedin.com/in/karsterr) [![Gmail Badge](https://img.shields.io/badge/-efecan_kara@tuta.io-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:efecan_kara@tuta.io)](mailto:efecan_kara@tuta.io) ![Profile Views](https://komarev.com/ghpvc/?username=karsterr)
 
-<div style="text-align: left;display: inline;">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
+## Technologies I Love
+- Linux Operating Systems
+- Virtualization
+- Shell Scripting
+- Database Management
+- Networking
 
-## :computer: Technologies I Love
-* Unix-like Operating Systems
-* Virtualization
-* Shell Scripting
-* Database Management
+## Skillset
+![C](https://img.icons8.com/color/48/000000/c.png) ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png) ![Bash](https://img.icons8.com/plasticine/48/000000/bash.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![Perl](https://img.icons8.com/color/48/000000/perl.png) 
+![Ruby](https://img.icons8.com/color/48/000000/ruby-programming-language.png) ![MySQL](https://img.icons8.com/color/48/000000/mysql.png) ![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png)
+![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![jQuery](https://img.icons8.com/ios/48/000000/jquery.png) 
+ ![VueJS](https://img.icons8.com/color/48/000000/vue-js.png) ![Linux](https://img.icons8.com/color/48/000000/linux.png) ![Git](https://img.icons8.com/color/48/000000/git.png) ![Arduino](https://img.icons8.com/color/48/000000/arduino.png) 
+![Docker](https://img.icons8.com/color/48/000000/docker.png)
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=karsterr&layout=compact">
-
- ## Who am I?
- ```python
- class WhoAmI:
- 	user = 'Efe Can Kara'
-		current_work = 'student'
-		hobbies = [
-				'programming',
-				'watching anime',
-				'playing bass guitar'
-				'being up all night chasing that ONE BUG...'
-			]
-
-	def getCity():
-		return Mugla_Turkey()
- ```
+## Who Am I?
+```c
+int main() {
+    WhoAmI efe = {
+        .name = "Efe Can Kara",
+        .age = 20,
+        .current_work = "Student at Sivas Republic University",
+        .city = "Mugla, Turkey",
+        .fun_fact = "I started using Linux with Fedora in 2019."
+    };
+}
+```
 
 ## Current Works
- * Takıng notes from Udemy course about CompTIA Linux+
- * I'm currently working on 🔭 building **solution based log analyzer** and working up on polishing my skills 🌱 in **beLinuxSysAdmin**.
-
-## Other Stuff
-  - [My Blog](https://ktb.github.io)
-  - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!:grimacing: )
-
-![Haany's github stats](https://github-readme-stats.vercel.app/api?username=karsterr&show_icons=true&hide=[%22issues%22])
+- Project 1: [CSIT](https://github.com/users/karsterr/projects/22) - Notes, codes and important things for my CSIT education.
+- Project 2: [Advanced Loy Analyzer and Solution Suggestioner](https://github.com/users/karsterr/projects/28) - Log system that suggest solutiong to user for system-wide problems.
