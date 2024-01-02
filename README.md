@@ -1,6 +1,6 @@
 # Greeting, I'm Efe Can Kara 💻
 
-<sup align="right"> <img src="https://i.imgur.com/4YoQPQ5.gif" alt="matrix" height="256" width="256" /> </sup>
+<img src="https://i.imgur.com/4YoQPQ5.gif" alt="matrix" height="256" width="256" align="right" />
 
 [![Linkedin Badge](https://img.shields.io/badge/-karsterr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karsterr)](https://www.linkedin.com/in/karsterr) [![Gmail Badge](https://img.shields.io/badge/-efecan_kara@tuta.io-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:efecan_kara@tuta.io)](mailto:efecan_kara@tuta.io) ![Profile Views](https://komarev.com/ghpvc/?username=karsterr)
 
