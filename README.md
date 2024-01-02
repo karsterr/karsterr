@@ -1,4 +1,4 @@
-# Greeting, I'm Efe Can Kara 💻
+# Greeting, I'm [Efe Can Kara](https://karsterr.github.io) 💻
 
 <img src="https://i.imgur.com/4YoQPQ5.gif" alt="matrix" height="256" width="256" align="right" />
 
