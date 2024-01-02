@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-karsterr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karsterr)](https://www.linkedin.com/in/karsterr) [![Gmail Badge](https://img.shields.io/badge/-efecan_kara@tuta.io-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:efecan_kara@tuta.io)](mailto:efecan_kara@tuta.io)
 <p align="right" style="display: inline-block;"> <img src="https://i.imgur.com/4YoQPQ5.gif" alt="matrix" /> </p>
 
-<div style="text-align: left">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
+<div style="text-align: left;display: inline;">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
 
 ## :computer: Technologies I Love
 * Unix-like Operating Systems
