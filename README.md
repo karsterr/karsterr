@@ -1,54 +1,42 @@
-<h1 align="center">Greetings, I'm Efe Can Kara</h1>
-<h3 align="center">Jr. Linux System Administrator</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karsterr&label=Profile%20views&color=0e75b6&style=flat" alt="karsterr" /> </p>
+## Greetings, I'm [Efe Can Kara](https://karsterr.github.io) :computer:
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karsterr&theme=tokyonight" alt="karsterr" /></a> </p>
+<h1>Jr. Linux System Administrator</h1>
 
-- Main Focus > [beLinuxSysAdmin](https://github.com/karsterr/beLinuxSysAdmin)
-- Solutions > [HackerRank Solutions](https://github.com/karsterr/HackerRank-Solutions)
-- Currently Learning > **Bash Scripting**
-- Open to Comtribute > **C#, C and Python and Basic Web Projects**
-- Mail > **efecan_kara@tuta.io**
-- Website > **https://karsterr.github.io**
-- Blog > **https://ktb.github.io**
-- LinkedIn > **https://www.linkedin.com/in/karsterr/**
+[![Linkedin Badge](https://img.shields.io/badge/-karsterr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karsterr)](https://www.linkedin.com/in/karsterr) [![Gmail Badge](https://img.shields.io/badge/-efecan_kara@tuta.io-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:efecan_kara@tuta.io)](mailto:efecan_kara@tuta.io)
+<p align="right" style="display: inline-block;"> <img src="https://i.imgur.com/4YoQPQ5.gif" alt="matrix" /> </p>
 
-<div> <a href="https://www.linkedin.com/in/karsterr" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/karsterr" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:efecan_kara@tuta.io"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/karsterr" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="karsterr" height="30" width="40" /></a><a href="https://www.hackerrank.com/karsterr" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="karsterr" height="30" width="40" /></a><a href="https://www.youtube.com/c/KARSTERR" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="KARSTERR" height="30" width="40" /></a><a href="https://www.leetcode.com/karsterr" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="karsterr" height="30" width="40" /></a><a href="https://stackoverflow.com/users/19764557" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/stack-overflow.svg" alt="19764557" height="30" width="40" /></a><a href="https://dev.to/karsterr" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/devto.svg" alt="karsterr" height="30" width="40" /></a></p>
+<div style="text-align: left">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/csharp-original.svg" alt="Csharp" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/logos-perl.svg" alt="Perl" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/php-original.svg" alt="PHP" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/ruby-original.svg" alt="Ruby" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
-</p>
+## :computer: Technologies I Love
+* Unix-like Operating Systems
+* Virtualization
+* Shell Scripting
+* Database Management
 
-<h3 align="left">Stars</h3>
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=karsterr&show_icons=true&locale=en&theme=tokyonight" alt="karsterr" /></p>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=karsterr&layout=compact">
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=karsterr&theme=tokyonight" alt="karsterr" /></p>
+ ## Who am I?
+ ```python
+ class WhoAmI:
+ 	user = 'Efe Can Kara'
+		current_work = 'student'
+		hobbies = [
+				'programming',
+				'watching anime',
+				'playing bass guitar'
+				'being up all night chasing that ONE BUG...'
+			]
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/karsterr">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=karsterr&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karsterr&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karsterr&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=karsterr&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karsterr&theme=2077" height="180em" />
-</div>
+	def getCity():
+		return Mugla_Turkey()
+ ```
+
+## Current Works
+ * Takıng notes from Udemy course about CompTIA Linux+
+ * I'm currently working on 🔭 building **solution based log analyzer** and working up on polishing my skills 🌱 in **beLinuxSysAdmin**.
+
+## Other Stuff
+  - [My Blog](https://ktb.github.io)
+  - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!:grimacing: )
+
+![Haany's github stats](https://github-readme-stats.vercel.app/api?username=karsterr&show_icons=true&hide=[%22issues%22])
