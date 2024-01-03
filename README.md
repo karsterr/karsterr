@@ -33,6 +33,6 @@ int main() {
 
 ## Current Works
 - Project 1: [CSIT](https://github.com/users/karsterr/projects/22) - Notes, codes and important things for my CSIT education.
-- Project 2: [Advanced Loy Analyzer and Solution Suggestioner](https://github.com/users/karsterr/projects/28) - Log system that suggest solutiong to user for system-wide problems.
+- Project 2: [Advanced Log Analyzer and Solution Suggestioner](https://github.com/users/karsterr/projects/28) - Log system that suggest solutiong to user for system-wide problems.
 
 ### Feel free to contribute any of my repositories or let me know if you have further requests!
