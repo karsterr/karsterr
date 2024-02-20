@@ -4,19 +4,14 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-karsterr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karsterr)](https://www.linkedin.com/in/karsterr) [![Gmail Badge](https://img.shields.io/badge/-efecan_kara@tuta.io-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:efecan_kara@tuta.io)](mailto:efecan_kara@tuta.io) ![Profile Views](https://komarev.com/ghpvc/?username=karsterr)
 
+I mainly using GitLab now. 
+
 ## Technologies I Love
 - Unix-Like Operating Systems
 - Virtualization
 - Shell Scripting
 - Database Management
 - Networking
-
-## Skillset
-![C](https://img.icons8.com/color/48/000000/c.png) ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png) ![Bash](https://img.icons8.com/plasticine/48/000000/bash.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![Perl](https://img.icons8.com/color/48/000000/perl.png)
-![Ruby](https://img.icons8.com/color/48/000000/ruby-programming-language.png) ![MySQL](https://img.icons8.com/color/48/000000/mysql.png) ![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png)
-![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![jQuery](https://img.icons8.com/ios/48/000000/jquery.png)
- ![VueJS](https://img.icons8.com/color/48/000000/vue-js.png) ![Linux](https://img.icons8.com/color/48/000000/linux.png) ![Git](https://img.icons8.com/color/48/000000/git.png) ![Arduino](https://img.icons8.com/color/48/000000/arduino.png)
-![Docker](https://img.icons8.com/color/48/000000/docker.png)
 
 ## Who Am I?
 ```c
@@ -30,9 +25,5 @@ int main() {
     };
 }
 ```
-
-## Current Works
-- Project 1: [CSIT](https://github.com/users/karsterr/projects/22) - Notes, codes and important things for my CSIT education.
-- Project 2: [Advanced Log Analyzer and Solution Suggestioner](https://github.com/users/karsterr/projects/28) - Log system that suggest solutiong to user for system-wide problems.
 
 ### Feel free to contribute any of my repositories or let me know if you have further requests!
