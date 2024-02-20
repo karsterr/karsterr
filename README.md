@@ -4,7 +4,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-karsterr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karsterr)](https://www.linkedin.com/in/karsterr) [![Gmail Badge](https://img.shields.io/badge/-efecan_kara@tuta.io-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:efecan_kara@tuta.io)](mailto:efecan_kara@tuta.io) ![Profile Views](https://komarev.com/ghpvc/?username=karsterr)
 
-I mainly using GitLab now. 
+I'm using GitLab instead of GitHub now. 
 
 ## Technologies I Love
 - Unix-Like Operating Systems
