@@ -18,14 +18,22 @@ I use various programing and scripting languages for developing projects. I can 
 - Networking
 
 ## Who Am I?
-```c
-int main() {
-    WhoAmI efe = {
-        .name = "Efe Can Kara",
-        .age = 20,
-        .current_work = "Student at Sivas Republic University",
-        .city = "Mugla, Turkey",
-        .fun_fact = "I started using Linux with Fedora in 2019."
+```Rust
+struct WhoAmI {
+    name: String,
+    age: u32,
+    current_work: String,
+    city: String,
+    fun_fact: String,
+}
+
+fn main() {
+    let efe = WhoAmI {
+        name: String::from("Efe Can Kara"),
+        age: 20,
+        current_work: String::from("Student at Sivas Republic University"),
+        city: String::from("Mugla, Turkey"),
+        fun_fact: String::from("I started using Linux with Fedora in 2019."),
     };
 }
 ```
