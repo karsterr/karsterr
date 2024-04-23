@@ -11,11 +11,10 @@ My knowledge of Linux consists of building my own system, solving problems and a
 I use various programing and scripting languages for developing projects. I can also do basic web development.
 
 ## Technologies I Love
-- Unix-Like Operating Systems
-- Virtualization
+- UNIX-like Operating Systems
 - Shell Scripting
-- Database Management
-- Networking
+- IoT
+- AI
 
 ## Who Am I?
 ```Rust
