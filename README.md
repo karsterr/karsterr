@@ -4,11 +4,11 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-karsterr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karsterr)](https://www.linkedin.com/in/karsterr) [![Gmail Badge](https://img.shields.io/badge/-efecan_kara@tuta.io-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:efecan_kara@tuta.io)](mailto:efecan_kara@tuta.io) ![Profile Views](https://komarev.com/ghpvc/?username=karsterr)
 
-Hello! I'm Efe Can Kara, I've been developing myself on Linux and other UNIX-like operating systems for about five years. Starting to be interested in Linux based systems as a hobby made me realize how much I love this field and I continue to improve myself in this field. My goal is to become an expert linux system administrator.
+Hello! I'm Efe Can Kara, I've been interested in Linux and other UNIX-like operating systems for about five years. However, I'm new to fields like IoT and artificial intelligence, and I'm focusing on developing myself in these areas.
 
-My knowledge of Linux consists of building my own system, solving problems and automating. I am already proficient in programming languages such as Python, C and I continue to improve myself on shell scripting. I can configure and compile kernel according to hardware specifications.
+My skills are not limited to system configuration and troubleshooting. I've honed my skills in programming languages such as Python, C, and shell scripting, enabling me to develop strong projects in IoT and artificial intelligence.
 
-I use various programing and scripting languages for developing projects. I can also do basic web development.
+From kernel configuration and compilation to basic web development, I enjoy pushing the boundaries of what's possible at every opportunity. My ultimate goal is to specialize in IoT and artificial intelligence, making meaningful contributions to the ever-changing landscape of technology.
 
 ## Technologies I Love
 - UNIX-like Operating Systems
