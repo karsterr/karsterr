@@ -10,31 +10,32 @@ My skills are not limited to system configuration and troubleshooting. I've hone
 
 From kernel configuration and compilation to basic web development, I enjoy pushing the boundaries of what's possible at every opportunity. My ultimate goal is to specialize in IoT and artificial intelligence, making meaningful contributions to the ever-changing landscape of technology.
 
-## Technologies I Love
+## Technologies and Skills I Use and Love
 - UNIX-like Operating Systems
-- Shell Scripting
 - IoT
 - AI
+- Capability of programming with various programming languages
+- Kernel Configuration and Compilation
+- Fullstack Web Development at Basic Levels
+- Troubleshooting and problem-solving
 
 ## Who Am I?
-```Rust
-struct WhoAmI {
-    name: String,
-    age: u32,
-    current_work: String,
-    city: String,
-    fun_fact: String,
-}
+```bash
+#!/bin/bash
 
-fn main() {
-    let efe = WhoAmI {
-        name: String::from("Efe Can Kara"),
-        age: 20,
-        current_work: String::from("Student at Sivas Republic University"),
-        city: String::from("Mugla, Turkey"),
-        fun_fact: String::from("I started using Linux with Fedora in 2019."),
-    };
-}
+# Define variables
+name="Efe Can Kara"
+age=20
+current_work="Student at Sivas Republic University"
+city="Mugla, Turkey"
+fun_fact="I started using Linux with Fedora in 2019."
+
+# Print information
+echo "Name: $name"
+echo "Age: $age"
+echo "Current Work: $current_work"
+echo "City: $city"
+echo "Fun Fact: $fun_fact"
 ```
 
 ### Feel free to contribute any of my repositories or let me know if you have further requests!
