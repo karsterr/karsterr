@@ -13,7 +13,7 @@ From kernel configuration and compilation to basic web development, I enjoy push
 ## Technologies and Skills I Use and Love
 - UNIX-like Operating Systems
 - IoT
-- AI
+- Data Science and AI
 - Capability of programming with various programming languages
 - Kernel Configuration and Compilation
 - Fullstack Web Development at Basic Levels
