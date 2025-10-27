@@ -1,92 +1,168 @@
 <div align="center">
 
-# Efe Can Kara
+# 👋 Merhaba, Ben Efe Can Kara
 
-### Veri Bilimcisi • Makine Öğrenimi Mühendisi • Mobil Geliştirici • Linux Uzmanı
+### 🔬 Veri Bilimci | 🤖 Makine Öğrenimi Mühendisi | 📱 Mobil Geliştirici | 🐧 Linux Uzmanı
 
-_Verileri içgörülere dönüştürmek, akıllı çözümler oluşturmak_
-
----
+*Verileri içgörülere, fikirleri gerçeğe dönüştüren bir problem çözücü*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karsterr/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kr.efecan@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karsterr)
+[![Location](https://img.shields.io/badge/Muğla-Türkiye-red?style=for-the-badge&logo=google-maps&logoColor=white)](https://goo.gl/maps/Turkey)
+
+![Profile Views](https://komarev.com/ghpvc/?username=karsterr&color=blueviolet&style=for-the-badge)
 
 </div>
 
 ---
 
-## 🚀 Hakkımda
+## 🎯 Hakkımda
 
-**Sivas Cumhuriyet Üniversitesi** Bilişim Sistemleri ve Teknolojileri bölümünde 4. sınıf öğrencisiyim. Gerçek dünyadaki sorunları çözen veri odaklı çözümler yaratmaya tutkuyla bağlıyım. Makine öğrenimi, veri analizi ve çapraz platform uygulama geliştirme alanlarında uzmanım.
+🎓 **Sivas Cumhuriyet Üniversitesi** Bilişim Sistemleri ve Teknolojileri bölümü 4. sınıf öğrencisiyim.
 
-Yaklaşık **7 yıllık Linux tecrübem** var; çeşitli dağıtımlar denedim ve aktif olarak kullandım. Sistem yönetimi, kabuk scripting, paket yönetimi ve performans optimizasyonu konularında güçlü bir altyapıya sahibim. Bu sayede hem sunucu hem de geliştirme ortamlarında verimli ve güvenli çözümler üretebiliyorum.
+💼 **İş birliğine açığım** - Veri bilimi projeleri, yapay zeka çözümleri ve yenilikçi mobil uygulamalar üzerinde çalışmaya hazırım.
 
-Yolculuğum, tahmine dayalı analitik ve veri madenciliğinden üretim aşamasına hazır mobil uygulamalar geliştirmeye kadar uzanıyor. Temiz kodun, anlamlı içgörüler ve kullanıcı odaklı tasarımın gücüne inanıyorum.
+🚀 Gerçek dünya problemlerini çözen **veri odaklı çözümler** geliştirmeye tutkuyla bağlıyım. Tahmine dayalı analitik ve veri madenciliğinden, üretim aşamasına hazır mobil uygulamalara kadar geniş bir yelpazede deneyim sahibiyim.
+
+🐧 **7+ yıllık Linux tecrübesi** ile sistem yönetimi, kabuk scripting, paket yönetimi ve performans optimizasyonu konularında derinlemesine bilgi sahibiyim. Çeşitli dağıtımları aktif olarak kullanıyor ve test ediyorum.
+
+💡 **Felsefem**: Temiz, sürdürülebilir ve anlamlı kod yazıyorum - sadece çalışan değil, hikâye anlatan kod. Her proje, öğrenmek ve topluluğa katkıda bulunmak için bir fırsattır.
 
 ---
 
-## 💡 İlgi Alanlarım
+## 🛠️ Teknoloji Yığınım
 
-### Veri Bilimi ve Yapay Zeka
+### 🤖 Veri Bilimi & Yapay Zeka
+```python
+technologies = {
+    "Languages": ["Python", "R"],
+    "ML/DL": ["TensorFlow", "PyTorch", "Scikit-learn", "Keras"],
+    "Data Analysis": ["Pandas", "NumPy", "SciPy", "Statsmodels"],
+    "Visualization": ["Plotly", "Matplotlib", "Seaborn"],
+    "MLOps": ["Docker", "MLflow", "DVC"]
+}
+```
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-### Geliştirme & Sistemler
+### 💻 Geliştirme & Sistemler
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-### Veritabanları ve Araçlar
+### 🗄️ Veritabanları & DevOps
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## 📊 GitHub Analitiği
+## 📊 GitHub İstatistiklerim
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=karsterr&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=karsterr&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karsterr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karsterr&layout=compact&theme=tokyonight&hide_border=true)
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karsterr&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 🎓 Şu Anki Odak Noktalarım
+## 🎯 Şu Anki Odak Noktalarım
 
-- **İleri Düzey Makine Öğrenimi**: Derin öğrenme mimarileri ve sinir ağları
-- **Üretim Sistemleri**: Ölçeklenebilir veri pipeline’ları ve MLOps
-- **Çapraz Platform Geliştirme**: Flutter ve modern mobil mimariler
-- **Araştırma**: İstatistiksel analiz ve akademik metodoloji
-- **Linux & Sistem Yönetimi**: Dağıtımlar, scripting, optimizasyon ve sunucu yönetimi
+```mermaid
+mindmap
+  root((Efe Can))
+    Makine Öğrenimi
+      Derin Öğrenme Mimarileri
+      Sinir Ağları
+      NLP & Computer Vision
+    Üretim Sistemleri
+      MLOps
+      Ölçeklenebilir Pipeline'lar
+      Model Deployment
+    Mobil Geliştirme
+      Flutter
+      Cross-Platform Apps
+      Modern Mimariler
+    Linux & DevOps
+      Sistem Yönetimi
+      Automation & Scripting
+      Performance Optimization
+    Araştırma
+      İstatistiksel Analiz
+      Akademik Metodoloji
+      Veri Madenciliği
+```
+
+- 🔬 **İleri Düzey ML**: Derin öğrenme mimarileri, transformer modeller ve neural network optimizasyonu
+- 🚀 **MLOps & Production**: Ölçeklenebilir veri pipeline'ları, model serving ve continuous integration
+- 📱 **Mobile Development**: Flutter ile cross-platform uygulamalar ve modern mimari patternleri
+- 📈 **Data Science**: İstatistiksel analiz, A/B testing ve predictive analytics
+- 🐧 **Linux Mastery**: Sistem yönetimi, shell scripting, containerization ve server optimization
 
 ---
 
-## 🌟 Felsefe
-
-> _"Basitlik, sofistikeliktir. Veri hikâyeler anlatır. Kod ise sorunları çözer."_
-
-Temiz ve sürdürülebilir kod yazmaya inanıyorum; sadece çalışan değil, aynı zamanda bir hikâye anlatan kod. Her proje, öğrenmek, gelişmek ve topluluğa katkıda bulunmak için bir fırsattır.
-
----
+## 🏆 GitHub Aktivitesi
 
 <div align="center">
 
-### Bağlantı Kuralım ve Birlikte Harika Şeyler Yapalım! 🚀
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=karsterr&theme=tokyo-night&hide_border=true&area=true)
 
-_Şu anda veri bilimi projeleri, yenilikçi mobil uygulamalar ve Linux tabanlı çözümler üzerinde iş birliğine açığım._
+</div>
+
+---
+
+## 💭 Motivasyon
+
+<div align="center">
+
+> *"Basitlik, sofistikasyonun doruk noktasıdır. Veri hikâyeler anlatır, kod ise sorunları çözer."*
+
+### 🌟 İlkelerim
+
+**🎯 Problem Çözme** • **📊 Veri Odaklılık** • **🔄 Sürekli Öğrenme** • **🤝 İşbirliği** • **💡 İnovasyon**
+
+</div>
+
+---
+
+## 🤝 Benimle İletişime Geçin
+
+<div align="center">
+
+### 🚀 Birlikte Harika Projeler Yaratmaya Hazırım!
+
+Veri bilimi, makine öğrenimi, mobil uygulama geliştirme veya Linux tabanlı çözümler konusunda iş birliği yapmak isterseniz, benimle iletişime geçmekten çekinmeyin!
+
+📧 **Email**: [kr.efecan@gmail.com](mailto:kr.efecan@gmail.com)  
+💼 **LinkedIn**: [linkedin.com/in/karsterr](https://www.linkedin.com/in/karsterr/)  
+🐙 **GitHub**: [@karsterr](https://github.com/karsterr)  
+📍 **Konum**: Muğla, Türkiye
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
 </div>
