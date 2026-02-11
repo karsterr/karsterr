@@ -75,7 +75,6 @@ I approach engineering problems from two perspectives:
 <br />
 
 - **[GPR Analysis Tool](https://github.com/karsterr/MATLAB-GPR-Analysis-Tool)** — Ground Penetrating Radar data processing & porosity model validation toolkit
-- **[AIS Port Density Analyzer](https://github.com/karsterr/AIS-Port-Density-Analyzer)** — Maritime traffic analysis with geospatial heatmap visualization
 
 </details>
 
@@ -83,21 +82,10 @@ I approach engineering problems from two perspectives:
 <summary><b>🔐 Security & Infrastructure</b></summary>
 <br />
 
-- **[LLM Security Proxy](https://github.com/karsterr/llm-security-and-rag-proxy-firewall)** — RAG system firewall for prompt injection & PII leak detection
-- **[Technical Lessons](https://github.com/karsterr/Technical-Lessons)** — Curated resources on algorithms, AI, cybersecurity & system architecture
+- **[LLM Security Proxy](https://github.com/karsterr/llm-security-and-rag-proxy-firewall)** — RAG system firewall for prompt injection & PII leak detection (Not Planned Yet)
+- **[Technical Lessons](https://github.com/karsterr/Technical-Lessons)** — Curated resources on algorithms, AI, cybersecurity & system architecture (Not Planned Yet)
 
 </details>
-
-<br />
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=karsterr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karsterr&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
 
 <br />
 
