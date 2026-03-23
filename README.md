@@ -17,7 +17,7 @@
 
 I am an **Information Systems & Technologies Professional** (B.Sc. candidate, graduating soon) specializing in building **efficient, scalable, and data-driven systems**. My expertise sits at the intersection of **Advanced Data Analytics** and **High-Performance System Architecture**.
 
-Currently, I am working as an **IT Intern at Arch of Sigma**, where I bridge the gap between engineering and design by integrating multidisciplinary tools (Python, AutoCAD, Blender, Photoshop, Excel) to streamline technical workflows and optimize operations. 
+Currently, I am working as an **IT Intern at Arch of Sigma**, where I bridge the gap between engineering and design by integrating multidisciplinary tools (Python, AutoCAD, Blender, Photoshop, Excel) to streamline technical workflows and optimize operations.
 
 I approach engineering problems from two distinct perspectives:
 
@@ -40,10 +40,10 @@ I approach engineering problems from two distinct perspectives:
 📈 Pandas/NumPy    ██████████████░░░  85%
 📉 Statistical     ███████████████░░  88%
 📗 Excel (Advanced)██████████████░░░  85%
-````
+```
 
-\</td\>
-\<td valign="top" width="50%"\>
+</td>
+<td valign="top" width="50%">
 
 ### Systems & IT Operations
 
@@ -55,9 +55,9 @@ I approach engineering problems from two distinct perspectives:
 🖥️ Raspberry Pi    ███████████░░░░░  70%
 ```
 
-\</td\>
-\</tr\>
-\</table\>
+</td>
+</tr>
+</table>
 
 ### 📐 Multidisciplinary & Design Tools
 
@@ -65,38 +65,38 @@ I approach engineering problems from two distinct perspectives:
 AutoCAD • Blender • Adobe Photoshop
 ```
 
-\<br /\>
+<br />
 
 ## 🎯 Featured Projects
 
-\<details open\>
-\<summary\>\<b\>🧠 AI & Machine Learning\</b\>\</summary\>
-\<br /\>
+<details open>
+<summary><b>🧠 AI & Machine Learning</b></summary>
+<br />
 
   - **[FisheryAI](https://github.com/karsterr/FisheryAI)** — Edge-AI LSTM system for fisheries time-series analysis with NLP report generation.
   - **[MATLAB Emotion Analysis](https://github.com/karsterr/MATLAB-Code-vs-App-Emotion_Analysis)** — Comparative study: hand-coded vs. app-generated emotion classification models.
   - **[VectorWise](https://github.com/karsterr/VectorWise)** — High-performance ANN search engine using FAISS/Annoy for vector similarity.
 
-\</details\>
+</details>
 
-\<details\>
-\<summary\>\<b\>🔬 Data Analysis & Geospatial\</b\>\</summary\>
-\<br /\>
+<details>
+<summary><b>🔬 Data Analysis & Geospatial</b></summary>
+<br />
 
   - **[GPR Analysis Tool](https://github.com/karsterr/MATLAB-GPR-Analysis-Tool)** — Ground Penetrating Radar data processing & porosity model validation toolkit.
 
-\</details\>
+</details>
 
-\<details\>
-\<summary\>\<b\>🔐 Security & Infrastructure\</b\>\</summary\>
-\<br /\>
+<details>
+<summary><b>🔐 Security & Infrastructure</b></summary>
+<br />
 
   - **[LLM Security Proxy](https://github.com/karsterr/llm-security-and-rag-proxy-firewall)** — RAG system firewall for prompt injection & PII leak detection *(In Development)*.
   - **[Technical Lessons](https://github.com/karsterr/Technical-Lessons)** — Curated resources on algorithms, AI, cybersecurity & system architecture.
 
-\</details\>
+</details>
 
-\<br /\>
+<br />
 
 ## 🌱 Currently Exploring
 
@@ -104,32 +104,32 @@ AutoCAD • Blender • Adobe Photoshop
   - Advanced Docker orchestration & System Optimization
   - Real-time data processing and embedded systems
 
-\<br /\>
+<br />
 
 ## 💬 Let's Connect
 
 I'm always open to collaborating on projects where I can apply my analytical skills and multidisciplinary background to solve real-world problems.
 
-\<p align="center"\>
-\<a href="mailto:kr.efecan@gmail.com"\>
-\<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white" alt="Email"/\>
-\</a\>
-\<a href="https://www.linkedin.com/in/karsterr/"\>
-\<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white" alt="LinkedIn"/\>
-\</a\>
-\<a href="https://github.com/karsterr"\>
-\<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white" alt="GitHub"/\>
-\</a\>
-\</p\>
+<p align="center">
+<a href="mailto:kr.efecan@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/karsterr/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/karsterr">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+</p>
 
-\<br /\>
+<br />
 
 -----
 
-\<div align="center"\>
+<div align="center">
 
 **Open Source Enthusiast** • **Linux Poweruser** • **Multidisciplinary IT Specialist**
 
 *Architecting data-driven solutions, from the kernel to the canvas* 💻
 
-\</div\>
+</div>
