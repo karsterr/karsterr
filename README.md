@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/KARSTERR">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Merhaba,+Ben+Efe+Can+Kara;Veri,+Sistem+%26+Otomasyon+Uzmanı;Sistem+Mimarı+%26+Açık+Kaynak+Tutkunu;Multidisipliner+BT+%C3%87%C3%B6z%C3%BCmleri" alt="Typing SVG" />
+    <h1>Efe Can Kara</h1>
   </a>
 </div>
 
